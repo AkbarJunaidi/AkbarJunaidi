@@ -38,11 +38,11 @@
 
 ## ◈ About
 
-I'm a **Software Engineer** from Indonesia who enjoys building modern web applications with a strong focus on **clean architecture**, **maintainability**, and **user experience**.
+I'm a **Software Engineer** from Indonesia who enjoys building web applications that are clean, scalable, and easy to maintain.
 
-I primarily work with **Laravel** and **PHP**, while continuously exploring **software architecture**, **system design**, and **backend engineering**.
+I mainly work with **Laravel** and **PHP**, and I'm always learning more about **system design** and **software architecture** - because good code should work everywhere, not just on my machine.
 
-Outside of web development, I also enjoy building **2D games with Unity** as a creative outlet for problem-solving and interactive design.
+Outside of web development, I also build **2D games in Unity** for fun, where I get to design freely without any deadlines.
 
 ---
 
@@ -51,9 +51,9 @@ Outside of web development, I also enjoy building **2D games with Unity** as a c
 > Write code that is simple today and scalable tomorrow.
 
 - Clean and maintainable code
-- Scalable software architecture
+- Scalable software architecture, not spaghetti
 - Simplicity over unnecessary complexity
-- Long-term maintainability
+- Long-term maintainability over short-term shortcuts
 - Continuous learning and improvement
 
 ---
@@ -80,13 +80,15 @@ Unity 2D Game Development
 <img src="https://img.shields.io/badge/GitHub-1B2733?style=for-the-badge&logo=github&logoColor=B0C4DE"/>
 </a>
 
+<a href="https://www.linkedin.com/in/akbar-junaidi">
 <img src="https://img.shields.io/badge/LinkedIn-1B2733?style=for-the-badge&logo=linkedin&logoColor=778899"/>
+</a>
 
 <img src="https://img.shields.io/badge/Email-1B2733?style=for-the-badge&logo=gmail&logoColor=778899"/>
 
 </p>
 
-<p align="center"><i>LinkedIn & Email — Coming Soon</i></p>
+<p align="center"><i>Email — coming soon.</i></p>
 
 ---
 
