@@ -1,57 +1,81 @@
 <div align="center">
 
-# Hi, I'm Maulana Akbar Junaidi
+# Maulana Akbar Junaidi
 
 ### Software Engineer
 
-Building clean, scalable, and maintainable web applications.
+> Building clean, scalable, and maintainable web applications.
 
 <br>
 
-[![Laravel](https://img.shields.io/badge/Laravel-18181B?style=for-the-badge&logo=laravel)](https://laravel.com/)
-[![PHP](https://img.shields.io/badge/PHP-18181B?style=for-the-badge&logo=php)](https://www.php.net/)
-[![MySQL](https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-18181B?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
-[![Git](https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git)](https://git-scm.com/)
+<a href="https://laravel.com">
+<img src="https://img.shields.io/badge/Laravel-18181B?style=for-the-badge&logo=laravel&logoColor=white"/>
+</a>
+
+<a href="https://www.php.net">
+<img src="https://img.shields.io/badge/PHP-18181B?style=for-the-badge&logo=php&logoColor=white"/>
+</a>
+
+<a href="https://www.mysql.com">
+<img src="https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+
+<a href="https://getbootstrap.com">
+<img src="https://img.shields.io/badge/Bootstrap-18181B?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</a>
+
+<a href="https://git-scm.com">
+<img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# About
+## ◈ About
 
-I'm a Software Engineer from Indonesia who enjoys designing and developing software with a strong focus on clean architecture, maintainability, and user experience.
+I'm a **Software Engineer** from Indonesia who enjoys building modern web applications with a strong focus on **clean architecture**, **maintainability**, and **user experience**.
 
-I primarily build web applications using Laravel and PHP while continuously learning system design, software architecture, and backend engineering.
-
----
-
-# Engineering Principles
-
-- Write clean and maintainable code.
-- Design scalable software.
-- Keep architecture simple.
-- Build solutions that last.
-- Learn continuously.
+I primarily work with **Laravel** and **PHP**, while continuously exploring **software architecture**, **system design**, and **backend engineering**.
 
 ---
 
-# Current Focus
+## ◈ Engineering Principles
 
-- Laravel Development
-- Backend Engineering
-- Software Architecture
-- System Design
-- Clean Code
-- Performance Optimization
+> Write code that is simple today and scalable tomorrow.
+
+- Clean and maintainable code
+- Scalable software architecture
+- Simplicity over unnecessary complexity
+- Long-term maintainability
+- Continuous learning and improvement
 
 ---
 
-# Connect
+## ◈ Current Focus
 
-- GitHub: https://github.com/AkbarJunaidi
-- LinkedIn: *(Add your LinkedIn here)*
-- Email: *(Add your email here)*
+```text
+Laravel Development
+Backend Engineering
+Software Architecture
+System Design
+Clean Code
+Performance Optimization
+```
+
+---
+
+## ◈ Connect
+
+<p>
+
+GitHub • <a href="https://github.com/AkbarJunaidi">AkbarJunaidi</a>
+
+LinkedIn • Coming Soon
+
+Email • Coming Soon
+
+</p>
 
 ---
 
