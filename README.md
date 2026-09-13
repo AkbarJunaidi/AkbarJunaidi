@@ -3,7 +3,7 @@
 # Maulana Akbar Junaidi
 
 ### Software Engineer
-//opop
+
 > Building clean, scalable, and maintainable web applications.
 
 <br>
